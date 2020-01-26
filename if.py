@@ -16,3 +16,5 @@ if a<100 and a>9: # and, or, not
     print("2 orontoi too")
 else:
     print("2 orontoi bish")
+
+# buh huudsuudaa hadgalchihaad Message deeree hadgalah havtasnii tailbaraa bicheed ctrl+ender darj hadgalna.
